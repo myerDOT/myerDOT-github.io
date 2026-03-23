@@ -24,6 +24,7 @@ const config = defineConfig({
 	site: 'https://myerDOT.github.io',
 	base: '/website',
 	output: 'static',
+	trailingSlash: 'always',
 	integrations: [
 		expressiveCode({
 			themes: [spectreDark],
