@@ -14,15 +14,15 @@
 		"lint:fix": "biome check --write ."
 	},
 	"dependencies": {
-		"@astrojs/mdx": "5.0.0",
-		"@astrojs/node": "10.0.0",
+		"@astrojs/mdx": "^5.0.2",
+		"@astrojs/node": "^10.0.3",
 		"@astrojs/sitemap": "3.7.1",
 		"@iconify-json/lucide": "^1.2.20",
 		"@iconify-json/simple-icons": "^1.2.18",
 		"@iconify/utils": "^2.2.1",
 		"@shikijs/themes": "^1.26.1",
-		"astro": "6.0.0",
-		"astro-expressive-code": "^0.38.3",
+		"astro": "^6.0.8",
+		"astro-expressive-code": "^0.41.7",
 		"sharp": "^0.33.5"
 	},
 	"devDependencies": {
