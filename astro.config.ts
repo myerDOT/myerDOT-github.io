@@ -35,7 +35,7 @@ const config = defineConfig({
 			name: 'Myer Cheng',
 			openGraph: {
 				home: {
-					title: 'Home',
+					title: 'Myer Cheng',
 					description: 'Home page'
 				},
 				blog: {
